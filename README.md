@@ -4,6 +4,8 @@
 
 ### Data Modeling
     - Inspect the CSVs and sketch out an ERD of the tables
+       * Employee ERD: ### https://github.com/Doris-M/sql-challenge/blob/main/Images/EmployeeERD.png?raw=true
+   
 
 ### Data Engineering
   - Use the information you have to create a table schema for each of the six CSV files. 
@@ -36,6 +38,15 @@
 	1. Import the SQL database into Pandas.
 
         2. Create a histogram to visualize the most common salary ranges for employees.
+           
+           - Histogram
+             ### https://github.com/Doris-M/sql-challenge/blob/main/Images/SalaryHist.png?raw=true
+
+           - Chart       
+             ### https://github.com/Doris-M/sql-challenge/blob/main/Images/SalaryPerRangeChart.png?raw=true
 
 	3. Create a bar chart of average salary by title.
+
+             ### https://github.com/Doris-M/sql-challenge/blob/main/Images/AvgSalaryTitle.png?raw=true   
+        
 
