@@ -40,10 +40,10 @@
 
 2. Create a histogram to visualize the most common salary ranges for employees.
            
-           - Histogram
+- Histogram
 #### https://github.com/Doris-M/sql-challenge/blob/main/Images/SalaryHist.png?raw=true
 
-           - Chart       
+- Chart       
 #### https://github.com/Doris-M/sql-challenge/blob/main/Images/SalaryPerRangeChart.png?raw=true
 
 3. Create a bar chart of average salary by title.
