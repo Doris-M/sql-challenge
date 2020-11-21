@@ -4,7 +4,8 @@
 
 ### Data Modeling
     - Inspect the CSVs and sketch out an ERD of the tables
-       * Employee ERD: ### https://github.com/Doris-M/sql-challenge/blob/main/Images/EmployeeERD.png?raw=true
+* Employee ERD: 
+#### https://github.com/Doris-M/sql-challenge/blob/main/Images/EmployeeERD.png?raw=true
    
 
 ### Data Engineering
@@ -12,7 +13,7 @@
   - Import each CSV file into the corresponding SQL table.
 
 
-## Data Analysis
+### Data Analysis
 
 ### Once you have a complete database, do the following:
 
@@ -33,20 +34,20 @@
     - In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 
-## Bonus
+### Bonus
 
-	1. Import the SQL database into Pandas.
+1. Import the SQL database into Pandas.
 
-        2. Create a histogram to visualize the most common salary ranges for employees.
+2. Create a histogram to visualize the most common salary ranges for employees.
            
            - Histogram
-             ### https://github.com/Doris-M/sql-challenge/blob/main/Images/SalaryHist.png?raw=true
+#### https://github.com/Doris-M/sql-challenge/blob/main/Images/SalaryHist.png?raw=true
 
            - Chart       
-             ### https://github.com/Doris-M/sql-challenge/blob/main/Images/SalaryPerRangeChart.png?raw=true
+#### https://github.com/Doris-M/sql-challenge/blob/main/Images/SalaryPerRangeChart.png?raw=true
 
-	3. Create a bar chart of average salary by title.
+3. Create a bar chart of average salary by title.
 
-             ### https://github.com/Doris-M/sql-challenge/blob/main/Images/AvgSalaryTitle.png?raw=true   
+#### https://github.com/Doris-M/sql-challenge/blob/main/Images/AvgSalaryTitle.png?raw=true   
         
 
