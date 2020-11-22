@@ -86,3 +86,5 @@ GROUP BY last_name, first_name
 ORDER BY 2 DESC;
 
 
+/*Epilogue :)*/
+SELECT * FROM employees e WHERE emp_id = 499942 
